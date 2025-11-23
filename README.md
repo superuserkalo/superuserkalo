@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=superuserkalo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **superuserkalo/superuserkalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
